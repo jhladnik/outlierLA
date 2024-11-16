@@ -1,0 +1,4 @@
+11.16.2024 
+After completing the Lemur_Astrology, I suddenly had doeling_scratch_advanced back in my queue after completing it a day previous. In the "Enablement" section of the profile it states 2 modules that I did complete already, one of them is just the first section of Lemur_Astrology that has to be completed to move on to finish the task, which is already completed. The section that is stated I need to complete is the section that is asking which languages I am proficient in and has them all selected (I only chose HTML, CSS, JavaScript) and I cannot change them.
+
+I am seeing a trend in when I complete a task and select "Finish", my home screen pops up with the disclaimer stating that the project that I was working on is no longer available (even though it was completed in the time allotment given) and there is another on my home screen, one that I have already completed and is showing up again. I completed doeling_scratch_advanced and the Lemur_Astrology
